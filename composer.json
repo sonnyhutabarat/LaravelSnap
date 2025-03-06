@@ -32,7 +32,7 @@
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/",
-            "Nicepay\\LaravelSnap\\": "packages/Nicepay/laravel-snap/src/"
+            "Nicepay\\LaravelSnap\\": "packages/Nicepay/laravelsnap/src/"
         }
     },
     "scripts": {
