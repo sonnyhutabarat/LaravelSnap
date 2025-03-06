@@ -12,6 +12,12 @@
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sonnyhutabarat/LaravelSnap"
+        }
+    ],
     "require-dev": {
         "facade/ignition": "^2.5",
         "fakerphp/faker": "^1.9.1",
