@@ -1,5 +1,5 @@
 {
-    "name": "nicepay/LaravelSnap",
+    "name": "nicepay/laravelsnap",
     "type": "library",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
@@ -12,12 +12,6 @@
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/sonnyhutabarat/LaravelSnap"
-        }
-    ],
     "require-dev": {
         "facade/ignition": "^2.5",
         "fakerphp/faker": "^1.9.1",
@@ -38,7 +32,7 @@
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/",
-            "Nicepay\\LaravelSnap\\": "packages/Nicepay/laravelsnap/src/"
+            "Nicepay\\laravelsnap\\": "packages/Nicepay/laravelsnap/src/"
         }
     },
     "scripts": {
