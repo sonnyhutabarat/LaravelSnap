@@ -1,5 +1,5 @@
 {
-    "name": "nicepay/laravelsnap",
+    "name": "nicepay/LaravelSnap",
     "type": "library",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
@@ -25,7 +25,7 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "Nicepay\\laravel-snap\\" : "src",
+            "Nicepay\\LaravelSnap\\" : "src",
             "test\\": "tests/"
         }
     },
